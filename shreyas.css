@@ -1,0 +1,30 @@
+.colorblue{
+    color:blue;
+    background-color: burlywood;
+}
+.coloryellow{
+    color: yellow;
+    background-color: skyblue;
+}
+.bodycolor{
+    background-color: aliceblue;
+}
+.tborder{
+    border: 1px solid black;
+    margin: 20;
+    padding: 5px;
+    
+   
+}
+td{
+    border:1px solid black;
+    margin: 5px;
+    padding: 5px;
+    height: 30px;
+}
+th{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    height: : 30px
+}
